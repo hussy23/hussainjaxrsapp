@@ -1,7 +1,11 @@
 package com.hussain.hussainjaxrsapp.dao;
 
+import com.hussain.hussainjaxrsapp.config.DbConnection;
 import com.hussain.hussainjaxrsapp.model.User;
 
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,14 +20,14 @@ public class UserDao {
 	
 	public List<User> getAll(){
 		
-		List<User> users = fakeDbCall();
+		List<User> users = getUsersFromDb();
 		
 		return users;
 	}
 	
 	public User getAUser(int id) {
 		
-		List<User> users = fakeDbCall();
+		List<User> users = getUsersFromDb();
 		
 		for (User user : users) {
 			if (user.getId() == id) {
@@ -66,6 +70,39 @@ public class UserDao {
 			e.printStackTrace();
 			   return -1;
 		}
+	}
+	
+	public List<User> getUsersFromDb(){
+		
+		List<User> userList	= new ArrayList<>();
+		
+		//Create connection instance.
+		Connection conn = DbConnection.getInstance().getConnection();
+		
+		//Prepare the query.
+		String sql = "SELECT * FROM `tbl_user`;";
+		
+		try {
+			PreparedStatement stmt = conn.prepareStatement(sql);
+			
+			ResultSet resultSet = stmt.executeQuery();
+			
+			while(resultSet.next()) {
+				User user = new User();
+				user.setId(resultSet.getInt("id"));
+				user.setUsername(resultSet.getString("username"));
+				user.setEmail(resultSet.getString("email"));
+				user.setPassword(resultSet.getString("password"));
+				user.setRole(resultSet.getString("role"));
+				
+				userList.add(user);
+			}
+			
+			return userList;
+		  } catch (Exception e) {
+			 logger.error("DB ERROR : Could not access data - "+e.getMessage());
+			  return null;
+		  }
 	}
 	
 	private List<User> fakeDbCall(){

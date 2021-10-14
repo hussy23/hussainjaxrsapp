@@ -58,3 +58,133 @@
 04:30:56.603 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
 04:30:56.603 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
 04:30:56.603 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:40:25.473 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+00:40:25.579 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:40:25.580 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:40:25.582 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:40:25.583 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:40:25.584 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:40:25.585 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:40:25.592 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:40:25.593 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:40:25.594 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:40:25.595 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:40:25.596 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:40:25.597 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:41:50.123 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+00:41:50.212 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:41:50.213 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:41:50.215 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:41:50.217 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:41:50.218 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:41:50.221 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:41:50.232 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:41:50.234 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:41:50.234 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:41:50.235 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:41:50.237 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:41:50.238 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:49:08.396 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+00:49:08.463 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:49:08.464 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:49:08.464 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:49:08.465 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:49:08.465 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:49:08.465 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:49:08.468 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:49:08.469 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:49:08.469 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:49:08.470 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:49:08.470 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:49:08.471 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:50:44.078 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+00:54:37.568 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+00:54:37.634 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:54:37.635 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:54:37.635 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:54:37.636 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:54:37.637 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:54:37.637 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:54:37.642 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:54:37.643 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:54:37.643 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:54:37.643 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:54:37.644 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:54:37.645 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:55:55.102 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+00:55:55.162 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:55:55.163 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:55:55.163 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:55:55.164 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:55:55.165 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:55:55.165 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:55:55.170 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+00:55:55.171 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+00:55:55.171 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+00:55:55.171 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+00:55:55.172 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+00:55:55.172 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+00:58:39.196 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+01:01:31.055 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 172518776 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+01:02:45.828 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 172518776 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+01:06:11.284 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1489322191 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+01:06:11.341 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+01:06:11.342 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+01:06:11.343 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+01:06:11.343 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+01:06:11.344 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+01:06:11.344 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+01:06:11.348 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+01:06:11.349 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+01:06:11.350 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+01:06:11.350 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+01:06:11.351 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+01:06:11.351 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+01:16:50.346 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 215759534 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+01:19:13.932 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1029898472 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+01:19:14.014 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+01:19:14.015 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+01:19:14.016 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+01:19:14.016 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+01:19:14.017 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+01:19:14.017 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+01:19:14.021 [main] FATAL com.hussain.hussainjaxrsapp.dao.UserDao - This is a FATAL log
+01:19:14.022 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - This is an ERROR log
+01:19:14.022 [main] WARN  com.hussain.hussainjaxrsapp.dao.UserDao - This is a WARN log
+01:19:14.022 [main] INFO  com.hussain.hussainjaxrsapp.dao.UserDao - This is an INFO log
+01:19:14.023 [main] DEBUG com.hussain.hussainjaxrsapp.dao.UserDao - This is a DEBUG log
+01:19:14.024 [main] TRACE com.hussain.hussainjaxrsapp.dao.UserDao - This is a TRACE log
+02:29:22.651 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 315461968 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+02:29:22.707 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+02:32:52.859 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1395073533 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+02:32:52.892 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+02:32:52.929 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 649630909 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+02:32:52.962 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1089680530 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+02:32:52.963 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+02:32:52.988 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1807911555 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+02:32:52.989 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:01:34.666 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1395073533 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:01:34.695 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:01:34.733 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 649630909 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:01:34.771 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1089680530 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:01:34.773 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:01:34.798 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1807911555 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:01:34.799 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:06:08.882 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 217470033 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:06:08.911 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:09:46.533 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1526305386 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:09:46.573 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:26:00.496 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1395073533 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:26:00.525 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:26:00.561 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 649630909 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:26:00.597 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1089680530 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:26:00.598 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:26:00.626 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1807911555 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:26:00.629 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:29:58.309 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1395073533 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:29:58.337 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:29:58.378 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 649630909 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:29:58.427 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1089680530 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:29:58.428 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+04:29:58.458 [main] ERROR com.hussain.hussainjaxrsapp.config.DbConnection - 1807911555 DB ERROR : Connection Failed - Access denied for user 'root'@'localhost' (using password: YES)
+04:29:58.459 [main] ERROR com.hussain.hussainjaxrsapp.dao.UserDao - DB ERROR : Could not access data - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
